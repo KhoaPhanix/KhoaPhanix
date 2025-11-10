@@ -1,15 +1,16 @@
-### 👋 Xin chào! Tôi là KhoaPhanix!
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbszsc/giphy.gif" width="400"/>
+</div>
 
-<br>
+<h3 align="center">
+  👋 Chào bạn, tôi là Khoa (KhoaPhanix)
+</h3>
+---
 
-### 🛠️ Ngôn ngữ và Công cụ tôi sử dụng
-
-<p align="left">
+### 🛠️ Ngôn ngữ & Công cụ
+<p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
@@ -22,33 +23,20 @@
   </a>
 </p>
 
-<br>
+---
 
-### 📊 Thống kê GitHub của tôi
-
+### 📊 Thống kê ngôn ngữ
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=KhoaPhanix&show_icons=true&locale=en&theme=radical" alt="KhoaPhanix's GitHub stats" />
-  </a>
-  <br><br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KhoaPhanix&layout=compact&locale=en&theme=radical" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KhoaPhanix&layout=compact&locale=en&theme=transparent" alt="Top Languages" />
 </p>
 
-<br>
+---
+
+### 📫 Liên hệ
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=KhoaPhanix&theme=radical" alt="KhoaPhanix" />
+  Bạn có thể liên hệ với tôi qua
+  <br/>
+  <a href="mailto:phandangkhoawork@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khoaphanix&label=Profile%20views&color=brightgreen" alt="khoaphanix" />
-</p>
-
-### 📬 Liên hệ với tôi
-
-<a href="mailto:[phandangkhoawork@gmail.com]" target="blank">
-  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
 </p>
